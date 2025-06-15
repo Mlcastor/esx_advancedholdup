@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Mlcastor/esx_advancedholdup/compare/v1.0.0...v1.1.0) (2025-06-15)
+
+
+### Features
+
+* **esx_advancedholdup:** migrate legacy resource into template skeleton ([36213ff](https://github.com/Mlcastor/esx_advancedholdup/commit/36213ffe790d255b634ebdd5a867d2da3fed294c))
+
 ## [1.0.0](https://github.com/Mlcastor/esx_resource_template/compare/v0.3.0...v1.0.0) (2025-06-15)
 
 
